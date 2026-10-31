@@ -3,7 +3,7 @@ const bookingForm = document.getElementById("bookingForm");
 
 // Replace this with your WhatsApp number.
 // Include country code 91, without + or spaces.
-const whatsappNumber = "919864191564";
+const whatsappNumber = "918369563450";
 
 bookingForm.addEventListener("submit", function(event) {
     event.preventDefault();
